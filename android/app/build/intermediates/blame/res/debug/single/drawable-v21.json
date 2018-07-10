@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ralphlargo/.android/build-cache/edc8c19acf1e003f2806ad1800d5cd478a761973/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ralphlargo/.android/build-cache/dfcc8efc0c39fc873f8c129d6bc7fd58fe2f85b1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ralphlargo/.android/build-cache/edc8c19acf1e003f2806ad1800d5cd478a761973/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ralphlargo/.android/build-cache/edc8c19acf1e003f2806ad1800d5cd478a761973/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

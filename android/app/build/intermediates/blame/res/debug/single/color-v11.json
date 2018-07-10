@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ralphlargo/.android/build-cache/edc8c19acf1e003f2806ad1800d5cd478a761973/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ralphlargo/.android/build-cache/edc8c19acf1e003f2806ad1800d5cd478a761973/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

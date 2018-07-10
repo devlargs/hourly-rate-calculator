@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ralphlargo/.android/build-cache/6ea2e2a3d9427b13b8488b8d9f92948169905c81/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d82beb8e2f5569261161c0414baf8673a1c99a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ralphlargo/.android/build-cache/6ea2e2a3d9427b13b8488b8d9f92948169905c81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/ralphlargo/Desktop/projects/hourly-rate-calculator/android/app/build/intermediates/pre-dexed/debug/classes_6ba6aa9b9287f7baeb9981cd1bf6b1d3f1dbe805.jar" />
+    </item>
+
+</items>
