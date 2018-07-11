@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { View, Text } from 'native-base';
+import { Container } from 'native-base';
+import Head from '../components/header';
 
 export default class Home extends Component {
     static navigationOptions = {
@@ -8,9 +9,9 @@ export default class Home extends Component {
 
     render() {
         return (
-            <View>
-                <Text>Home</Text>
-            </View>
+            <Container>
+                <Head title="Home" />
+            </Container>
         )
     }
 }
