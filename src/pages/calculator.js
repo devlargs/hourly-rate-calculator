@@ -10,7 +10,7 @@ export default class Calculator extends Component {
     render() {
         return (
             <Container>
-                <Head title="Calculator" />
+                <Head title="Calculator" navigation={this.props.navigation} />
             </Container>
         )
     }

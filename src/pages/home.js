@@ -10,7 +10,7 @@ export default class Home extends Component {
     render() {
         return (
             <Container>
-                <Head title="Home" />
+                <Head title="Home" navigation={this.props.navigation} />
             </Container>
         )
     }
