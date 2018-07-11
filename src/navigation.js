@@ -6,11 +6,11 @@ import Home from './pages/home';
 import Calculator from './pages/calculator';
 
 const App = createDrawerNavigator({
-    Home: {
-        screen: Home,
-    },
     Calculator: {
         screen: Calculator,
+    },
+    Home: {
+        screen: Home,
     },
 });
 

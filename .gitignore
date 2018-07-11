@@ -45,6 +45,8 @@ buck-out
 local.properties
 *.iml
 android/app/build
+android/app/libs
+android/keystores/debug.keystore
 
 # Node
 node_modules
