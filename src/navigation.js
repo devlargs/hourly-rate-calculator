@@ -1,12 +1,23 @@
 import React, { Component } from 'react';
-import { View, Text } from 'native-base';
+import { createDrawerNavigator } from 'react-navigation';
+
+// Screens
+import Home from './pages/home';
+import Calculator from './pages/calculator';
+
+const App = createDrawerNavigator({
+    Home: {
+        screen: Home,
+    },
+    Calculator: {
+        screen: Calculator,
+    },
+});
 
 export default class Navigation extends Component {
     render() {
         return (
-            <View>
-                <Text>Navigation</Text>
-            </View>
+            <App />
         )
     }
 }
